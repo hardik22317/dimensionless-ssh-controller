@@ -4,10 +4,6 @@
             "PublicIp": "210.212.183.59/32" 
         },
         { 
-            "Username": "Tushar", 
-            "PublicIp": "61.0.169.98/32" 
-        },
-        { 
             "Username": "Gunjeet", 
             "PublicIp": "108.171.128.190/32" 
         }, 

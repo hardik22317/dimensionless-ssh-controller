@@ -2,7 +2,7 @@
     "SSHPermission": [{ 
             "Username": "Tushar", 
             "PublicIp": "210.212.183.59/32" 
-        }, 
+        },
         { 
             "Username": "Gunjeet", 
             "PublicIp": "108.171.128.190/32" 
@@ -10,7 +10,11 @@
         { 
             "Username": "Gunjeet", 
             "PublicIp": "103.81.243.58/32" 
-        },              
+        },
+        { 
+            "Username": "Gunjeet", 
+            "PublicIp": "61.0.169.98/32" 
+        },
         { 
             "Username": "Himanshu", 
             "PublicIp": "122.200.22.210/32" 

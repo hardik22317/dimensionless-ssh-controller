@@ -9,6 +9,10 @@
         },
         { 
             "Username": "Gunjeet", 
+            "PublicIp": "103.81.243.2/32" 
+        },
+        { 
+            "Username": "Gunjeet", 
             "PublicIp": "103.81.243.254/32" 
         },
         { 

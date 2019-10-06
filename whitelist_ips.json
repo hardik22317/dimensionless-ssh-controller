@@ -4,28 +4,8 @@
             "PublicIp": "49.248.169.155/32" 
         }, 
         { 
-            "Username": "Tushar", 
-            "PublicIp": "210.212.183.59/32" 
-        },
-        { 
             "Username": "Gunjeet", 
             "PublicIp": "103.81.243.2/32" 
-        },
-        { 
-            "Username": "Gunjeet", 
-            "PublicIp": "103.81.243.254/32" 
-        },
-        { 
-            "Username": "Gunjeet", 
-            "PublicIp": "108.171.128.190/32" 
-        }, 
-        { 
-            "Username": "Gunjeet", 
-            "PublicIp": "103.81.243.58/32" 
-        },
-        { 
-            "Username": "Gunjeet", 
-            "PublicIp": "61.0.169.98/32" 
         },
         { 
             "Username": "Himanshu", 
@@ -38,18 +18,6 @@
         { 
             "Username": "Hardik", 
             "PublicIp": "49.33.207.130/32" 
-        },
-        { 
-            "Username": "Hardik", 
-            "PublicIp": "122.200.22.211/32" 
-        },
-        { 
-            "Username": "Hardik", 
-            "PublicIp": "49.32.238.4/32" 
-        },
-        { 
-            "Username": "Hardik", 
-            "PublicIp": "203.188.229.90/32" 
-        }              
+        }            
     ] 
 } 
